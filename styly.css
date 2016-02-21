@@ -1,0 +1,11 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+p {font-size: 16px; 
+text-align: justify;}
+nav {background-color: green; margin-top: 50px; color: black, padding: 20px;}
+li {display: inline-block; margin-right: 70px;}
+.foto1 {float: left; width: 20%}
+.text {float:right; width: 70%}
+footer {position: fixed;bottom: 0}
+
